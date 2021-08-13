@@ -38,7 +38,7 @@ Using traffic data provided by the JDS, predict high jam reports in certain sect
 
 # RESULT
 <img src="https://github.com/farhantandia/DSI-Hackathon-2021/raw/main/Lulus2021/Slide14.JPG" width="1000"><br>
-<img src="https://github.com/alexivaner/farhantandia/DSI-Hackathon-2021/raw/main/Lulus2021/Slide15.JPG" width="1000"><br>
-<img src="https://github.com/alexivaner/farhantandia/DSI-Hackathon-2021/raw/main/Lulus2021/Slide16.JPG" width="1000"><br>
+<img src="https://github.com/farhantandia/DSI-Hackathon-2021/raw/main/Lulus2021/Slide15.JPG" width="1000"><br>
+<img src="https://github.com/farhantandia/DSI-Hackathon-2021/raw/main/Lulus2021/Slide16.JPG" width="1000"><br>
 
 
